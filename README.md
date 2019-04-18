@@ -8,3 +8,7 @@ Your finished project must include all of the following requirements:
 * [ ] Following the instructions in the `Tabs.js` file, complete the `TabLink`, and `TabCard` class components.  **Note: You will need to un-comment the code after the lines of instructions.  The code is commented out so you can work error-free**
 
 * [ ] Once you get your `Tab` component working properly add a couple more articles yourself and check out how it works.
+
+## Stretch
+
+*[ ] Create a button toggle to show the hidden button in `Button.js`
